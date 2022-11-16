@@ -1,4 +1,4 @@
-# -Business-case-dwwm-smart-holo
+# Business-case-dwwm-smart-holo
 business case fictif pour la formation dev web et web mobile
 
 Pour ce business case nous devons créer un site de vente de nft avec la blockchain Ethereum.
